@@ -20,6 +20,8 @@ When I initially submitted the analysis for this practical, I used Excel to gene
 
 In the attached files is my code and the raw data as an Excel spreadsheet. 
 
+
+
 **References:**
 1. Saqib, S., Akram, A., Halim, S. A., & Tassaduq, R. (2017). Sources of β-galactosidase and its applications in food industry. 3 Biotech, 7(1), 79. https://doi.org/10.1007/s13205-017-0645-5
 2. Raol, G. G., Raol, B. V., Prajapati, V. S., & Patel, K. C. (2015). Kinetic and thermodynamic characterization of a halotolerant β-galactosidase produced by halotolerant Aspergillus tubingensis GR1. Journal of basic microbiology, 55(7), 879–889. https://doi.org/10.1002/jobm.201400747
